@@ -4,19 +4,19 @@
     "url": "https://radquincy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/radquincy.com.ico",
     "slug": "rad-quincy-com",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 108,
-    "timeDay": 108,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "status": "up",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-09-05": 0
+      "2024-09-05": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://radgames.radquincy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/radgames.radquincy.com.ico",
     "slug": "rad-games",
-    "status": "down",
-    "uptime": "0.85%",
-    "uptimeDay": "0.85%",
-    "uptimeWeek": "0.85%",
-    "uptimeMonth": "0.85%",
-    "uptimeYear": "0.85%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "status": "up",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2024-09-05": 0
+      "2024-09-05": 11
     }
   }
 ]
