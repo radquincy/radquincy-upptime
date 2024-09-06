@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 164,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 147,
+    "timeDay": 155,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 152,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "time": 139,
+    "timeDay": 145,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Phrog the (Discord) Bot",
-    "url": "$PHROG_THE_BOT_IP",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "phrog-the-discord-bot",
-    "status": "down",
-    "uptime": "10.57%",
-    "uptimeDay": "10.57%",
-    "uptimeWeek": "10.57%",
-    "uptimeMonth": "10.57%",
-    "uptimeYear": "10.57%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-06": 0
-    }
   }
 ]
