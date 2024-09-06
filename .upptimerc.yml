@@ -7,6 +7,10 @@ sites:
     url: https://radquincy.com/
   - name: RadGames
     url: https://radgames.radquincy.com/
+  - name: Phrog the (Discord) Bot
+    check: "tcp-ping"
+    url: $PHROG_THE_BOT_IP
+    port: 8119
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
