@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 219,
-    "timeWeek": 172,
-    "timeMonth": 175,
-    "timeYear": 194,
+    "time": 195,
+    "timeDay": 231,
+    "timeWeek": 180,
+    "timeMonth": 177,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 163,
-    "timeWeek": 167,
-    "timeMonth": 171,
+    "timeDay": 208,
+    "timeWeek": 178,
+    "timeMonth": 174,
     "timeYear": 177,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Deakin University Computer society (DUCS)",
+    "url": "https://ducs.club/",
+    "icon": "https://icons.duckduckgo.com/ip3/ducs.club.ico",
+    "slug": "deakin-university-computer-society-ducs",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 170,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   }
 ]
