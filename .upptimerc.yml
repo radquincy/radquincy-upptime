@@ -7,7 +7,7 @@ sites:
     url: https://radquincy.com/
   - name: RadGames
     url: https://radgames.radquincy.com/
-  - name: Deakin University Computer society (DUCS)
+  - name: Deakin University Computer Society (DUCS)
     url: https://ducs.club/
   # - name: Phrog the (Discord) Bot
   #   check: "tcp-ping"
