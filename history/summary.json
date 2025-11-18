@@ -24,19 +24,19 @@
     "url": "https://radgames.radquincy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/radgames.radquincy.com.ico",
     "slug": "rad-games",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.87%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.97%",
     "time": 206,
-    "timeDay": 115,
-    "timeWeek": 216,
-    "timeMonth": 199,
+    "timeDay": 159,
+    "timeWeek": 220,
+    "timeMonth": 200,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-11-18": 160
+      "2025-11-18": 177
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://ducs.club/",
     "icon": "https://icons.duckduckgo.com/ip3/ducs.club.ico",
     "slug": "deakin-university-computer-society-ducs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "91.37%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "90.22%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 244,
-    "timeDay": 182,
-    "timeWeek": 291,
-    "timeMonth": 280,
+    "timeDay": 173,
+    "timeWeek": 277,
+    "timeMonth": 276,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-11-18": 124
+      "2025-11-18": 141
     }
   }
 ]
