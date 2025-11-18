@@ -44,19 +44,19 @@
     "url": "https://ducs.club/",
     "icon": "https://icons.duckduckgo.com/ip3/ducs.club.ico",
     "slug": "deakin-university-computer-society-ducs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "90.22%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "87.83%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.97%",
     "time": 244,
     "timeDay": 173,
-    "timeWeek": 277,
-    "timeMonth": 276,
+    "timeWeek": 269,
+    "timeMonth": 273,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-11-18": 141
+      "2025-11-18": 175
     }
   }
 ]
