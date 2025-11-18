@@ -6,9 +6,9 @@
     "slug": "rad-quincy-com",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 170,
@@ -16,7 +16,7 @@
     "timeMonth": 207,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 12
     }
   },
   {
@@ -24,35 +24,39 @@
     "url": "https://radgames.radquincy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/radgames.radquincy.com.ico",
     "slug": "rad-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 136,
-    "timeWeek": 233,
-    "timeMonth": 202,
+    "timeDay": 115,
+    "timeWeek": 216,
+    "timeMonth": 199,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Deakin University Computer Society (DUCS)",
     "url": "https://ducs.club/",
     "icon": "https://icons.duckduckgo.com/ip3/ducs.club.ico",
     "slug": "deakin-university-computer-society-ducs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
-    "timeDay": 440,
-    "timeWeek": 375,
-    "timeMonth": 297,
+    "timeDay": 252,
+    "timeWeek": 336,
+    "timeMonth": 290,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
