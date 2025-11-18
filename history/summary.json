@@ -24,19 +24,19 @@
     "url": "https://radgames.radquincy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/radgames.radquincy.com.ico",
     "slug": "rad-games",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "87.72%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.12%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 225,
-    "timeDay": 2301,
-    "timeWeek": 1070,
-    "timeMonth": 451,
+    "timeDay": 1888,
+    "timeWeek": 994,
+    "timeMonth": 445,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-11-18": 177
+      "2025-11-18": 200
     }
   },
   {
